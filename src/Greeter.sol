@@ -1,8 +1,6 @@
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 
-// import "../lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol";
-
 contract Greeter {
     string private greeting;
     string private greeting2;
